@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_smallest">4.dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_small_expanded">126dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+
+    <dimen name="icon_size">120dp</dimen>
+    <dimen name="image_width">400dp</dimen>
+    <dimen name="image_height">225dp</dimen>
+</resources>

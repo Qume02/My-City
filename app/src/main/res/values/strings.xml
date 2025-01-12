@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">London</string>
+
+<!--    Name of the screens (Testing)    -->
+    <string name="recommendations">Recommendations</string>
+    <string name="recommendations_details">Details</string>
+
+    <string name="description">Description:</string>
+    <string name="why_visit">Why Visit:</string>
+    <string name="pro_tip">Pro tip:</string>
+
+    <!-- Categories -->
+    <string name="category_coffee">Coffee Shops</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_kid_friendly_places">Kid-Friendly Places</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_shopping_centers">Shopping Centers</string>
+
+    <!-- Coffee Recommendations -->
+    <string name="coffee_recommendation1">Monmouth Coffee</string>
+    <string name="coffee_recommendation2">Kaffeine</string>
+    <string name="coffee_recommendation3">Workshop Coffee</string>
+    <string name="coffee_recommendation4">Flat White</string>
+    <string name="coffee_recommendation5">Ozone Coffee Roasters</string>
+
+    <!-- Restaurants Recommendations -->
+    <string name="restaurant_recommendation1">Dishoom</string>
+    <string name="restaurant_recommendation2">Hakkasan</string>
+    <string name="restaurant_recommendation3">Sketch</string>
+    <string name="restaurant_recommendation4">Gymkhana</string>
+    <string name="restaurant_recommendation5">Padella</string>
+
+    <!-- Kid-Friendly Places Recommendations -->
+    <string name="kid_friendly_recommendation1">Natural History Museum</string>
+    <string name="kid_friendly_recommendation2">Science Museum</string>
+    <string name="kid_friendly_recommendation3">London Zoo</string>
+    <string name="kid_friendly_recommendation4">Diana Memorial Playground</string>
+    <string name="kid_friendly_recommendation5">Hamleys Toy Store</string>
+
+    <!-- Parks Recommendations -->
+    <string name="park_recommendation1">Hyde Park</string>
+    <string name="park_recommendation2">Regent\'s Park</string>
+    <string name="park_recommendation3">Greenwich Park</string>
+    <string name="park_recommendation4">Richmond Park</string>
+    <string name="park_recommendation5">Hampstead Heath</string>
+
+    <!-- Shopping Centers Recommendations -->
+    <string name="shopping_center_recommendation1">Westfield London</string>
+    <string name="shopping_center_recommendation2">Westfield Stratford City</string>
+    <string name="shopping_center_recommendation3">Carnaby Street</string>
+    <string name="shopping_center_recommendation4">Covent Garden</string>
+    <string name="shopping_center_recommendation5">Oxford Street</string>
+
+    <!-- Coffee Descriptions -->
+    <string name="coffee_place_description1">Monmouth Coffee Company has been a cornerstone of London\'s coffee scene since 1978. Known for its ethical sourcing and in-house roasting, it offers a carefully curated selection of beans from around the globe. Visitors can enjoy single-origin espresso, filter coffee, or a freshly brewed cup prepared by skilled baristas.</string>
+    <string name="coffee_place_description_why1">Intimate ambiance, knowledgeable staff, and freshly baked pastries.</string>
+    <string name="coffee_place_description_pro_tip1">Take a bag of their best-selling beans home as a souvenir.</string>
+
+    <string name="coffee_place_description2">With its sleek interiors and friendly vibe, Kaffeine is a haven for coffee lovers in central London. It’s one of the pioneers of Australia/New Zealand-inspired coffee culture in the UK. The café is famed for its creamy flat whites and creative seasonal menus featuring sandwiches, salads, and sweet treats.</string>
+    <string name="coffee_place_description_why2">Relaxed atmosphere, perfect for remote working or casual conversations.</string>
+    <string name="coffee_place_description_pro_tip2">Visit during their off-peak hours for a quieter experience.</string>
+
+    <string name="coffee_place_description3">Workshop Coffee, with its modern aesthetic and artisanal approach, has gained a reputation for exceptional coffee. They roast their beans in-house and serve everything from hand-poured filter coffee to perfectly crafted espressos.</string>
+    <string name="coffee_place_description_why3">Stylish setting and some of the best specialty coffee in London.</string>
+    <string name="coffee_place_description_pro_tip3">Pair your coffee with their delicious baked goods for a complete treat.</string>
+
+    <string name="coffee_place_description4">Flat White, nestled in Soho, is a compact café with big character. As one of the first spots to introduce Australians’ famous flat white coffee to London, it has earned a loyal following. The café also offers a selection of tasty bites to complement their expertly brewed coffee.</string>
+    <string name="coffee_place_description_why4">Cozy café and authentic flat white coffee experience.</string>
+    <string name="coffee_place_description_pro_tip4">Perfect for a quick coffee break in the heart of Soho.</string>
+
+    <string name="coffee_place_description5">Ozone Coffee Roasters blends industrial chic interiors with a deep passion for coffee. With roots in New Zealand, it serves an array of bold and unique blends. The café also features a fantastic brunch menu for a complete dining experience.</string>
+    <string name="coffee_place_description_why5">Excellent coffee, artisan breakfasts, and stylish interiors.</string>
+    <string name="coffee_place_description_pro_tip5">Don’t miss their signature espresso blend and all-day brunch menu.</string>
+
+    <!-- Restaurants Descriptions -->
+    <string name="restaurant_place_description1">Dishoom, a Bombay-inspired restaurant, offers a retro ambiance, delectable Indian dishes, and excellent cocktails. The black daal is a must-try, simmered for hours to perfection. The vibrant atmosphere makes it perfect for both casual and celebratory dining.</string>
+    <string name="restaurant_place_description_why1">Iconic dining experience with rich flavors and a unique vibe.</string>
+    <string name="restaurant_place_description_pro_tip1">Arrive early or book ahead to avoid long queues, especially for dinner.</string>
+
+    <string name="restaurant_place_description2">Hakkasan is a Michelin-starred Cantonese restaurant renowned for its glamorous interiors and impeccable cuisine. Signature dishes like the crispy duck salad and dim sum platter are served with artistry and attention to detail.</string>
+    <string name="restaurant_place_description_why2">A luxurious dining experience with world-class Asian flavors.</string>
+    <string name="restaurant_place_description_pro_tip2">Try their tasting menu for a curated selection of their best dishes.</string>
+
+    <string name="restaurant_place_description3">Sketch is an eclectic dining venue that blends art and gastronomy. With its iconic pink room and creative menus, it’s a destination for food enthusiasts and Instagram lovers alike. Their afternoon tea experience is particularly popular.</string>
+    <string name="restaurant_place_description_why3">Unparalleled ambiance and an unforgettable dining experience.</string>
+    <string name="restaurant_place_description_pro_tip3">Reserve a spot in their Gallery Room for a truly unique setting.</string>
+
+    <string name="restaurant_place_description4">Gymkhana offers Michelin-starred Indian cuisine inspired by Colonial-era clubs. Known for its expertly spiced curries, kebabs, and vibrant cocktails, it’s a go-to spot for food lovers seeking bold and authentic flavors.</string>
+    <string name="restaurant_place_description_why4">Exquisite Indian dishes in a sophisticated setting.</string>
+    <string name="restaurant_place_description_pro_tip4">Try their tasting menu to explore a variety of signature dishes.</string>
+
+    <string name="restaurant_place_description5">Padella is famous for its handmade pasta, served fresh and simple. This cozy eatery near Borough Market attracts long queues, but its rich sauces and authentic Italian dishes are worth the wait.</string>
+    <string name="restaurant_place_description_why5">Affordable, delicious pasta in an authentic Italian setting.</string>
+    <string name="restaurant_place_description_pro_tip5">Arrive early to beat the queue or visit during off-peak hours.</string>
+
+
+    <!-- Kid-Friendly Places Descriptions -->
+    <string name="kid_friendly_place_description1">The Natural History Museum is a treasure trove for kids, featuring life-size dinosaur skeletons, interactive exhibits, and fun workshops. The grand architecture and free entry make it a must-visit for families.</string>
+    <string name="kid_friendly_place_description_why1">Educational, interactive, and free for all visitors.</string>
+    <string name="kid_friendly_place_description_pro_tip1">Check out the seasonal events and family-friendly workshops.</string>
+
+    <string name="kid_friendly_place_description2">The Science Museum is packed with hands-on exhibits, exciting demonstrations, and kid-friendly galleries. Highlights include the interactive Wonderlab and the Flight Gallery featuring real aircraft.</string>
+    <string name="kid_friendly_place_description_why2">Inspiring and engaging for kids interested in science and technology.</string>
+    <string name="kid_friendly_place_description_pro_tip2">Book tickets for the IMAX 3D cinema for an unforgettable experience.</string>
+
+    <string name="kid_friendly_place_description3">London Zoo offers kids the chance to see over 650 species, including lions, penguins, and giraffes. With feeding sessions, play areas, and educational talks, it\'s perfect for a family day out.</string>
+    <string name="kid_friendly_place_description_why3">Up-close animal encounters and interactive learning opportunities.</string>
+    <string name="kid_friendly_place_description_pro_tip3">Arrive early to catch the most animal feedings and talks.</string>
+
+    <string name="kid_friendly_place_description4">The Diana Memorial Playground, inspired by Peter Pan, features a pirate ship, sandpits, and sensory trails. It’s a safe and magical space for children to explore and play.</string>
+    <string name="kid_friendly_place_description_why4">Imaginative play areas and beautiful surroundings.</string>
+    <string name="kid_friendly_place_description_pro_tip4">Bring snacks for a picnic while kids play.</string>
+
+    <string name="kid_friendly_place_description5">Hamleys Toy Store is a wonderland for kids, offering seven floors of toys, games, and live demonstrations. A visit here is an unforgettable experience for children of all ages.</string>
+    <string name="kid_friendly_place_description_why5">Iconic destination for kids with interactive fun and endless toy options.</string>
+    <string name="kid_friendly_place_description_pro_tip5">Don’t miss their seasonal events and themed toy sections.</string>
+
+    <!-- Parks Descriptions -->
+    <string name="park_place_description1">Hyde Park is one of London\'s largest and most iconic parks. Visitors can enjoy peaceful walks, cycling, or boating on the Serpentine Lake. The park is home to many historical landmarks, including Speaker\'s Corner.</string>
+    <string name="park_place_description_why1">Stunning green spaces and great for outdoor activities.</string>
+    <string name="park_place_description_pro_tip1">Visit during summer for live concerts and events.</string>
+
+    <string name="park_place_description2">Regent\'s Park features beautifully manicured gardens, boating lakes, and the famous Primrose Hill viewpoint. It’s also home to the Open Air Theatre and London Zoo.</string>
+    <string name="park_place_description_why2">Ideal for picnics, scenic strolls, and cultural events.</string>
+    <string name="park_place_description_pro_tip2">Bring a camera to capture stunning views from Primrose Hill.</string>
+
+    <string name="park_place_description3">Greenwich Park combines historical charm with breathtaking views of London. Visitors can explore the Royal Observatory, a deer park, and the stunning Queen’s House.</string>
+    <string name="park_place_description_why3">Panoramic views and rich historical sites.</string>
+    <string name="park_place_description_pro_tip3">Stay until sunset for stunning photo opportunities.</string>
+
+    <string name="park_place_description4">Richmond Park is a sprawling green space famous for its roaming deer and tranquil ambiance. It’s a favorite for nature lovers, cyclists, and photographers.</string>
+    <string name="park_place_description_why4">Perfect for wildlife spotting and peaceful walks.</string>
+    <string name="park_place_description_pro_tip4">Explore the Isabella Plantation during springtime for vibrant blooms.</string>
+
+    <string name="park_place_description5">Hampstead Heath offers natural beauty and one of London’s best cityscape views from Parliament Hill. It’s also home to swimming ponds and charming walking trails.</string>
+    <string name="park_place_description_why5">Unparalleled city views and outdoor swimming opportunities.</string>
+    <string name="park_place_description_pro_tip5">Pack a swimsuit for the Hampstead Ponds during warmer months.</string>
+
+    <!-- Shopping Centers Descriptions -->
+    <string name="shopping_center_place_description1">Westfield London is Europe’s largest shopping mall, featuring over 300 stores ranging from high-street brands to luxury designers. It also offers entertainment options like a cinema and bowling alley.</string>
+    <string name="shopping_center_place_description_why1">A complete shopping and entertainment experience under one roof.</string>
+    <string name="shopping_center_place_description_pro_tip1">Check for seasonal sales and exclusive pop-ups.</string>
+
+    <string name="shopping_center_place_description2">Westfield Stratford City offers a wide range of retail options, food courts, and entertainment facilities. It’s a modern hub located near Queen Elizabeth Olympic Park.</string>
+    <string name="shopping_center_place_description_why2">Convenient access and a diverse shopping selection.</string>
+    <string name="shopping_center_place_description_pro_tip2">Pair your visit with a trip to the nearby Olympic Park.</string>
+
+    <string name="shopping_center_place_description3">Carnaby Street is a vibrant pedestrian area with boutique stores, quirky shops, and trendy cafes. It’s a hotspot for unique finds and local fashion.</string>
+    <string name="shopping_center_place_description_why3">A lively atmosphere and one-of-a-kind shopping experience.</string>
+    <string name="shopping_center_place_description_pro_tip3">Visit during Christmas for festive decorations.</string>
+
+    <string name="shopping_center_place_description4">Covent Garden blends shopping, history, and entertainment. Explore artisan stalls, designer stores, and street performances in this iconic location.</string>
+    <string name="shopping_center_place_description_why4">Perfect for shopping and soaking in London’s charm.</string>
+    <string name="shopping_center_place_description_pro_tip4">Visit the Apple Market for handmade crafts and antiques.</string>
+
+    <string name="shopping_center_place_description5">Oxford Street is London’s busiest shopping street, boasting flagship stores of world-renowned brands and department stores like Selfridges.</string>
+    <string name="shopping_center_place_description_why5">A must-see for fashion lovers and bargain hunters alike.</string>
+    <string name="shopping_center_place_description_pro_tip5">Avoid peak hours to fully enjoy your shopping experience.</string>
+</resources>
