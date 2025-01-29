@@ -1,5 +1,5 @@
 plugins {
-    alias(libs.plugins.androidApplication)
+    alias(libs.plugins.androidApplication) version "8.4.0"
     alias(libs.plugins.jetbrainsKotlinAndroid)
 }
 
