@@ -14,3 +14,23 @@ Highlight the key features of your app.
     🏛️ View detailed information about each location.
     🎨 Modern UI built with Jetpack Compose.
     📡 Works offline.
+2. Screenshots
+
+Include images or GIFs of your app's interface to give users a preview. You can upload images and reference them like this:
+
+![Home Screen](screenshots/home.png)  
+![Details Screen](screenshots/details.png)  
+
+3. Tech Stack
+
+List the technologies used in the app.
+
+    Language: Kotlin
+    Framework: Jetpack Compose
+    Navigation: Android Jetpack Navigation
+    State Management: ViewModel & Dependency Injection
+
+4. Installation
+git clone https://github.com/Qume02/MyCity.git
+cd MyCity  
+./gradlew build 
