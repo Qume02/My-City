@@ -5,8 +5,6 @@ Discover fascinating places with this app! It provides comprehensive information
 This app is your ultimate guide to discovering the best places in London. Choose from five categories of locations, each offering a unique experience. Once you select a category, you'll be presented with five top recommendations curated just for you. Dive deeper by selecting a specific place to access detailed information, including key highlights, location details, and insider tips. Whether you're a local or a visitor, this app makes exploring London effortless and exciting
 
 ## Features
-1. Features
-
 Highlight the key features of your app.
 
     🌍 Explore five categories of places in London.
@@ -14,14 +12,14 @@ Highlight the key features of your app.
     🏛️ View detailed information about each location.
     🎨 Modern UI built with Jetpack Compose.
     📡 Works offline.
-2. Screenshots
+## Screenshots
 
 Include images or GIFs of your app's interface to give users a preview. You can upload images and reference them like this:
 
-![Home Screen](screenshots/home.png)  
-![Details Screen](screenshots/details.png)  
+![Home Screen](screens/home_screen.png)  ![Coffee Recommendation Screen](screens/coffee_recommendation.png) ![Specific Coffee Shop](screens/specific_coffeshop.png) 
 
-3. Tech Stack
+
+## Tech Stack
 
 List the technologies used in the app.
 
@@ -30,7 +28,9 @@ List the technologies used in the app.
     Navigation: Android Jetpack Navigation
     State Management: ViewModel & Dependency Injection
 
-4. Installation
+## Installation
+
 git clone https://github.com/Qume02/MyCity.git
+
 cd MyCity  
 ./gradlew build 
